@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 	id="com.aerserv.sdk.plugins.phonegap" version="1.0.0">
-	<name>Device</name>
+	<name>Aerserv</name>
 	<description>AerServ SDK Plugin</description>
 	<license>Apache 2.0</license>
 	<keywords>aerserv, plugin</keywords>
